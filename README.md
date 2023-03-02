@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Felipe Puyol
-I'm currently pursuing the MITx MicroMaster of Statistics and Data Science and working as an Ecommerce Manager. I believe data has the potential to transform the way we think and make decisions as a society. In my professional work, I strive to use data storytelling as a way to help organizations build brand equity and cultivate meaningful relationships with their customers.
+I'm currently pursuing the MITx MicroMaster of Statistics and Data Science and working as an Ecommerce Manager. I believe data has the potential to transform the way we think and make decisions as a society. 
 
 My skillset includes:
 - Languages: SQL (Microsoft SQL Server), Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib), VBA (Visual Basic for Applications), Java
