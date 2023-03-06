@@ -3,7 +3,7 @@ I'm currently pursuing the MITx MicroMaster of Statistics and Data Science and w
 
 My skillset includes:
 - Languages: SQL (Microsoft SQL Server), Python (Pandas, NumPy, SciPy, Seaborn, Matplotlib), VBA (Visual Basic for Applications), Java
-- Software: Jupyter Notebook, Tableau, Power BI, Excel, PowerPoint, GitHub, SAP ERP
+- Software: Jupyter Notebook, Tableau, Power BI, QlikView, Excel, PowerPoint, GitHub, SAP ERP
 
 Aside from my work, you can find me reading non-fiction books, playing basketball and tennis, and finding the best hiking spots in my free time. Please feel free to connect and reach out to me at any time! I love discussing all things data-related as well as hobbies/interests.
 
